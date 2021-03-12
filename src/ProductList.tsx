@@ -3,7 +3,10 @@ import React from "react";
 const ProductList = () => {
     return (
         <div className="ProductList">
-            Hello World!
+            <div>Imaginative Product 1</div>
+            <div>Innovative Product 2</div>
+            <div>Blow-your-mind Product 3</div>
+            <div>Synergistic Product 4</div>
         </div>
     );
 };
