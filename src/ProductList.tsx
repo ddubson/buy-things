@@ -1,6 +1,4 @@
-import logo from "./logo.svg";
 import React from "react";
-import App from "./App";
 
 const ProductList = () => {
     return (
